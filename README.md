@@ -10,4 +10,6 @@ PostGIS Spatial Database: This technique uses PostGIS to manage spatial data, in
 MongoDB Document Database: Managing reviews of tourist walks as JSON documents. This involves adding reviews and retrieving the one with the best rating.
 
 Neo4j Graph Database: Making a graph database in Neo4j to represent individuals and their friendship connections. This component includes retrieving all related persons for a specific person as well as adding new people and relationships.
-![image](https
+![Overview of Tourism Track Recommender System](https://github.com/user-attachments/assets/f98fb982-d4e1-430c-b2f9-20d5075a1fbe)
+
+
